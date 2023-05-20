@@ -11,7 +11,7 @@ function App() {
           <div>
             <img src="/vite.svg" className="logo h-28 w-28" alt="Vite logo" />
             <p className="py-5 text-center text-xs font-extralight text-zinc-500">
-              Vite 4.10
+              Vite 4.3.8
             </p>
           </div>
           <div>
@@ -33,7 +33,7 @@ function App() {
               alt="Tailwind logo"
             />
             <p className="py-5 text-center text-xs font-extralight text-zinc-500">
-              Tailwind 3.2.7
+              Tailwind 3.3.2
             </p>
           </div>
         </div>
@@ -43,7 +43,7 @@ function App() {
           </h1>
           <div className="text-center text-neutral-200">
             <button
-              className="bg-success text-md rounded-md bg-blue-500 px-4 pt-2 pb-2 font-mono leading-loose text-white transition duration-300 hover:bg-blue-600"
+              className="bg-success text-md rounded-md bg-blue-500 px-4 pb-2 pt-2 font-mono leading-loose text-white transition duration-300 hover:bg-blue-600"
               onClick={() => setSpin(!spin)}
             >
               {spin ? "Pause" : "Spin"}
