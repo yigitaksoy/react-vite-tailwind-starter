@@ -11,7 +11,7 @@ function App() {
           <div>
             <img src="/vite.svg" className="logo h-28 w-28" alt="Vite logo" />
             <p className="py-5 text-center text-xs font-extralight text-zinc-500">
-              Vite 4.3.8
+              Vite 4.4.9
             </p>
           </div>
           <div>
@@ -33,7 +33,7 @@ function App() {
               alt="Tailwind logo"
             />
             <p className="py-5 text-center text-xs font-extralight text-zinc-500">
-              Tailwind 3.3.2
+              Tailwind 3.3.3
             </p>
           </div>
         </div>
